@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dvlLoGKZiDeqa6euGmkz/dDe01vSFaiC7qwL3x0CRWgmZzjxHBGQ5G475uyFrz1RraqChS1QGx+OJjhqtoHNdg==",
+  "success": true,
+  "projectFilePath": "/Users/rafichoussari/Documents/PowerpointEdit/PowerpointEdit/PowerpointEdit.csproj",
+  "expectedPackageFiles": [
+    "/Users/rafichoussari/.nuget/packages/documentformat.openxml/2.11.0/documentformat.openxml.2.11.0.nupkg.sha512",
+    "/Users/rafichoussari/.nuget/packages/system.io.packaging/4.7.0/system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
